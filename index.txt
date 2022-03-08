@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ravi kumar
 giriprakashjigxcghjk;khfxgghghjj
 
@@ -5,3 +6,10 @@ jbb
 jbb
 nj
 nh
+=======
+rnj
+kjbb
+mbhb
+jbhb
+bn
+>>>>>>> c455ad283678039117bba0303ff23fb3e5f6d0b6
